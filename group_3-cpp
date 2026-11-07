@@ -7,6 +7,7 @@ int main() {
     cout << "hello, mansahay!" << endl;
     cout << "hello, hassan!" << endl;
     cout << "hello, gk!" << endl;
+    cout << "hello, nj!" << endl;
     
     return 0;
 }
